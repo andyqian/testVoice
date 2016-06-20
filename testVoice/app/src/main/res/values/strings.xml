@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testVoice</string>
+    <!--network state-->
+    <string name="network_not_info">当前没有可用网络,请检查设置!</string>
+    <!--iat string-->
+    <string name="pref_key_iat_show">iat_show</string>
+    <string name="text_begin">请开始说话…</string>
+</resources>
